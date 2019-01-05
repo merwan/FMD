@@ -68,7 +68,7 @@ function Init()
   local m=NewModule()
   m.category='French'
   m.website='Japscan'
-  m.rooturl='http://www.japscan.to'
+  m.rooturl='https://www.japscan.to'
   m.lastupdated='April 6, 2018'
   m.ongetinfo='getinfo'
   m.ongetpagenumber='getpagenumber'
